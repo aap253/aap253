@@ -15,3 +15,7 @@ Trained as a Data Scientist, I'm a Cornell Tech student studying Information Sys
 - 👯 I’m looking to collaborate on smart city and public transit initiatives. 
 - 📫 How to reach me: atmikapai13@gmail.com
 -->
+
+My Projects:
+1) Personal Portfolio: https://atmikapai.dev/
+2) NYC Eats: [nyceats.live](https://nyceats.live/)
